@@ -2,4 +2,4 @@
 Script para ler as noticias do JN sem assinatura premium
 
 Necessário:
-[TamperMonkey]([www.google.com](https://www.tampermonkey.net/)
+[TamperMonkey](https://www.tampermonkey.net/)
